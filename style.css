@@ -1,0 +1,38 @@
+.btn:hover{
+    transform: scale(1.05);
+    color:#005F02;
+    background-color: green;
+    
+}
+
+.btn{
+    background-color: whitesmoke;
+    color: black;
+    margin-right: 10px;
+}
+
+.card {
+    background-color: navy;
+    border-radius: 20px;
+    box-shadow:  0 10px 20px rgba(70, 19, 19, 0.2);
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: antiquewhite;
+
+}
+
+h2{
+    color: antiquewhite;
+}
+
+P{
+    color: antiquewhite;
+    font-size: large;
+}
+
+h3{ 
+    color: white;
+}
